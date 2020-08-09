@@ -1,0 +1,3 @@
+/Users/brandonrutch/CLionProjects/Teatro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/brandonrutch/CLionProjects/Teatro/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/brandonrutch/CLionProjects/Teatro/cmake-build-debug/CMakeFiles/Teatro.dir

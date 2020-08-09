@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/brandonrutch/CLionProjects/PilaPersona/Contacto/ListaContacto.cpp
+ListaContacto.h
+/Users/brandonrutch/CLionProjects/PilaPersona/Contacto/ListaContacto.h
+iostream
+-
+
+/Users/brandonrutch/CLionProjects/PilaPersona/Contacto/ListaContacto.h
+ostream
+-
+NodoContacto.h
+/Users/brandonrutch/CLionProjects/PilaPersona/Contacto/NodoContacto.h
+
+/Users/brandonrutch/CLionProjects/PilaPersona/Contacto/NodoContacto.h
+ostream
+-
+

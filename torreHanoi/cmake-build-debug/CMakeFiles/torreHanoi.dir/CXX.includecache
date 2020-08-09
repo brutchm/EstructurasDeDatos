@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/brandonrutch/CLionProjects/torreHanoi/Disco.h
+iostream
+-
+
+/Users/brandonrutch/CLionProjects/torreHanoi/main.cpp
+iostream
+-
+Disco.h
+/Users/brandonrutch/CLionProjects/torreHanoi/Disco.h
+

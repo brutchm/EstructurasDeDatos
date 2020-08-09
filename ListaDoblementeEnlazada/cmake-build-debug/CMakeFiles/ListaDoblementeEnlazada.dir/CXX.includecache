@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/brandonrutch/CLionProjects/ListaDoblementeEnlazada/ListaDoble.cpp
+ListaDoble.h
+/Users/brandonrutch/CLionProjects/ListaDoblementeEnlazada/ListaDoble.h
+
+/Users/brandonrutch/CLionProjects/ListaDoblementeEnlazada/ListaDoble.h
+iostream
+-
+NodoDoble.h
+/Users/brandonrutch/CLionProjects/ListaDoblementeEnlazada/NodoDoble.h
+
+/Users/brandonrutch/CLionProjects/ListaDoblementeEnlazada/NodoDoble.cpp
+NodoDoble.h
+/Users/brandonrutch/CLionProjects/ListaDoblementeEnlazada/NodoDoble.h
+
+/Users/brandonrutch/CLionProjects/ListaDoblementeEnlazada/NodoDoble.h
+iostream
+-
+
+/Users/brandonrutch/CLionProjects/ListaDoblementeEnlazada/main.cpp
+iostream
+-
+ListaDoble.h
+/Users/brandonrutch/CLionProjects/ListaDoblementeEnlazada/ListaDoble.h
+

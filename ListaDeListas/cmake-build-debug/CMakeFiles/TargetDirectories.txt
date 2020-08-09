@@ -1,0 +1,3 @@
+/Users/brandonrutch/CLionProjects/ListaDeListas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/brandonrutch/CLionProjects/ListaDeListas/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/brandonrutch/CLionProjects/ListaDeListas/cmake-build-debug/CMakeFiles/ListaDeListas.dir

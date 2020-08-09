@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/brandonrutch/CLionProjects/ListaDeEnteros/Lista.cpp
+iostream
+-
+Lista.h
+/Users/brandonrutch/CLionProjects/ListaDeEnteros/Lista.h
+Nodo.h
+/Users/brandonrutch/CLionProjects/ListaDeEnteros/Nodo.h
+
+/Users/brandonrutch/CLionProjects/ListaDeEnteros/Lista.h
+Nodo.h
+/Users/brandonrutch/CLionProjects/ListaDeEnteros/Nodo.h
+iostream
+-
+
+/Users/brandonrutch/CLionProjects/ListaDeEnteros/Nodo.h
+
+/Users/brandonrutch/CLionProjects/ListaDeEnteros/main.cpp
+iostream
+-
+Lista.h
+/Users/brandonrutch/CLionProjects/ListaDeEnteros/Lista.h
+

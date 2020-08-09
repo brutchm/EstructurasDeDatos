@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/brandonrutch/CLionProjects/PylasYColas/ColaInt.h
+iostream
+-
+NodoInt.h
+/Users/brandonrutch/CLionProjects/PylasYColas/NodoInt.h
+PilaInt.h
+/Users/brandonrutch/CLionProjects/PylasYColas/PilaInt.h
+
+/Users/brandonrutch/CLionProjects/PylasYColas/NodoInt.h
+ostream
+-
+
+/Users/brandonrutch/CLionProjects/PylasYColas/PilaInt.h
+NodoInt.h
+/Users/brandonrutch/CLionProjects/PylasYColas/NodoInt.h
+ColaInt.h
+/Users/brandonrutch/CLionProjects/PylasYColas/ColaInt.h
+
+/Users/brandonrutch/CLionProjects/PylasYColas/main.cpp
+iostream
+-
+ColaInt.h
+/Users/brandonrutch/CLionProjects/PylasYColas/ColaInt.h
+
